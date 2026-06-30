@@ -154,7 +154,6 @@ select:focus {
   border-color: #086dd9;
 }
 
-/* تحسين زر الإرسال */
 input[type="submit"] {
   margin-top: 25px;
   background: #086dd9;
